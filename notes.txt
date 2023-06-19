@@ -1,0 +1,44 @@
+/* - - - - - - - - - - - -
+ 
+ 
+
+        * Structure Styling
+    00. Reusable selectors
+    
+    01. HEADER
+        a. Header Top
+        b. Header Nav
+        c. Header Main. Departments Category 
+        d. Search Form
+        e. Responsive MENU Off Canvas
+    02. SLIDER
+    03. BRANDS
+    04. PRODUCT
+        a. Global product
+        b. BIG product
+        c. MINI product 
+        d. MAIN product 
+    05. BANNER
+        a. News Letter
+        b. Widgets
+        c. Footer Info
+    06. BOTTOM MENU
+        a. Search
+    07. OVERLAY
+    08. PAGE SINGLE
+        a. Breadcrumb
+        b. Product details
+        c. Product description
+        d. Product Review
+        e. Product Review Form
+    09. PAGE SINGLE: SPECIAL OFFER 
+    10. PAGE CATEGORY
+        a. Sidebar products filter
+        b. Products block
+    11. CART
+    12. PAGE CART
+    13. PAGE CHECKOUT
+    14. MODAL
+    15. RESPONSIVE
+        
+ *  - - - - - - - - - - - -  */
